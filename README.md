@@ -4,6 +4,7 @@
 Bachelor of Science in Statistics, EWHA W. UNIVERSITY 
 
 Master of Science in Big data analytics, EWHA W. UNIVERSITY
+
 ---
 ### Skills:books:
 
