@@ -1,8 +1,8 @@
 ### Hi, I'm Sunyoung Park:smile:
 
-### Connecting the dots:stars:
+### Connecting the Dots:stars:
 
-### 1day 1commit:sparkles:
+### 1 Day 1 Commit:sparkles:
 ---
 ### Education:mortar_board:
 Bachelor of Science in Statistics, EWHA W. UNIVERSITY 
