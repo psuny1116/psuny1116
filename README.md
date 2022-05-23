@@ -1,4 +1,6 @@
 ### Hi, I'm Sunyoung Park:smile:
+
+### Connecting the dots:diamond_shape_with_a_dot_inside:
 ---
 ### Education:mortar_board:
 Bachelor of Science in Statistics, EWHA W. UNIVERSITY 
