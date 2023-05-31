@@ -2,7 +2,6 @@
 
 ### Connecting the Dots:stars:
 
-### 1 Day 1 Commit:sparkles:
 ---
 ### Education:mortar_board:
 Bachelor of Science in Statistics, EWHA W. UNIVERSITY 
@@ -12,7 +11,10 @@ Master of Science in Big data analytics, EWHA W. UNIVERSITY
 ---
 ### Experience:office:
 
-#### DataScienceLab, Seongnam, Korea                              July, 2022                             
+#### HSAd, Seoul, Korea                              February, 2023 ~ May, 2023
+contract worker - Text Data Analyst
+
+#### DataScienceLab, Seongnam, Korea                              July, 2022 ~ October, 2022                           
 Intern - Data Analyst
 
 ---
