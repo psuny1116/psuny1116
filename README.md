@@ -1,4 +1,4 @@
-### Hi, I'm Sunyoung Park:smile:
+### Hi, I'm Sunyoung Park :smile:
 
 ### Connecting the Dots:stars:
 
