@@ -1,15 +1,15 @@
 ### Hi, I'm Sunyoung Park :smile:
 
-### Connecting the Dots:stars:
+### Connecting the Dots :stars:
 
 ---
-### Education:mortar_board:
+### Education :mortar_board:
 Bachelor of Science in Statistics, EWHA W. UNIVERSITY 
 
 Master of Science in Big data analytics, EWHA W. UNIVERSITY
 
 ---
-### Experience:office:
+### Experience :office:
 
 #### HSAd, Seoul, Korea                              February, 2023 ~ May, 2023
 contract worker - Text Data Analyst
@@ -18,7 +18,7 @@ contract worker - Text Data Analyst
 Intern - Data Analyst
 
 ---
-### Skills:books:
+### Skills :books:
 
 #### Programming Languages
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
